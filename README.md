@@ -1,16 +1,21 @@
-# chat_app_krishn
+# ChatAppUI for Zomentum
 
 A new Flutter application.
 
-## Getting Started
+ChatAppUI for Zomentum. First and final commit to the project.
+Extra comments have been added to the project itself.
 
-This project is a starting point for a Flutter application.
+# Prerequisites-
 
-A few resources to get you started if this is your first Flutter project:
+You shiuld have Android Studio downloaded on your Computers/Laptops.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Details to run the project-
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository or download the zip file.
+2. Extract the folder in it.
+3. Paste the folder it in your Android Studio Projects Folder(mostly in C: Drive).
+4. Open Android Studio and choose File->Open.
+5. Then selext the folder path from your Computer.
+6. The Project will open and Gradle Build and Sync will start.
+7. i) If no errors, just open an Android Virtual Device(AVD) and press Play/Run to test it out on your PC.
+   ii) If no errors, join your phone with your USB cable and allow USB Debugging. Then press Play/Run button and app will be downloaded on your phone and will start running automaticaly.
