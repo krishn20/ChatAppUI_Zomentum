@@ -7,7 +7,7 @@ Extra comments have been added to the project itself.
 
 # Prerequisites-
 
-You shiuld have Android Studio downloaded on your Computers/Laptops.
+You should have Android Studio downloaded on your Computers/Laptops.
 
 # Details to run the project-
 
